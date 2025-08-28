@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://dramabox1.site/",
+  "baseUrl": "https://dramaxbox.bbs.tr/",
   "login": "baseUrl/auth_api.php",
   "updateUserCoins": "baseUrl/update_user_coins.php",
   "getUserCoins": "baseUrl/get_user_coins.php",
