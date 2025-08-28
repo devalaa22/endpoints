@@ -17,4 +17,5 @@
   "getRecommendations": "https://dramaxbox.bbs.tr/get_recommendations.php",
   "viewsLikesApi": "https://dramaxbox.bbs.tr/views_likes_api.php",
   "getAdMob": "https://dramaxbox.bbs.tr/ads/get_admob.php"
+  "getAdWatchData": "https://dramaxbox.bbs.tr/ads/get_ad_watch_data.php",
 }
