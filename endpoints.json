@@ -1,6 +1,6 @@
 {
-  "baseUrl": "https://dramaxbox.bbs.tr/",
-  "bascreatePYEeUrl": "https://dramaxbox.bbs.tr/",
+  "baseUrl": "https://dramabox1.site/",
+  "bascreatePYEeUrl": "https://dramabox1.site/",
   "login": "https://dramaxbox.bbs.tr/auth_api.php",
   "updateUserCoins": "https://dramaxbox.bbs.tr/update_user_coins.php",
   "getUserCoins": "https://dramaxbox.bbs.tr/get_user_coins.php",
